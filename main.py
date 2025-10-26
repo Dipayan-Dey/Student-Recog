@@ -16,7 +16,7 @@ class Face_Recognition_System:
         self.root.geometry("1552x790+0+0")
         self.root.title("Face Recognition System")
 
-        #Press Esc to exit full screen
+        
         #self.root.bind("<Escape>", lambda e: self.root.attributes("-fullscreen", False))
 
 
